@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Welcome](README.md)
+* [Superforms](README.md)
 
 ## Getting Started
 
