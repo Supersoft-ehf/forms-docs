@@ -15,3 +15,16 @@
 * [Interactive blocks](basics/interactive-blocks.md)
 * [OpenAPI](basics/openapi.md)
 * [Integrations](basics/integrations.md)
+
+***
+
+* [Innskráning](innskraning.md)
+* [Notendastillingar](notendastillingar/README.md)
+  * [Liðsmeðlimir](notendastillingar/lidsmedlimir.md)
+* [Aðgerðasaga](adgerdasaga.md)
+* [Kosningar og Kjörskrá](kosningar-og-kjorskra/README.md)
+  * [Stofna nýja kosningu / könnun](kosningar-og-kjorskra/stofna-nyja-kosningu-konnun.md)
+  * [Bæta við bulk](kosningar-og-kjorskra/baeta-vid-bulk.md)
+  * [Taka út bulk](kosningar-og-kjorskra/taka-ut-bulk.md)
+  * [Afrita](kosningar-og-kjorskra/afrita.md)
+  * [Taka út einn](kosningar-og-kjorskra/taka-ut-einn.md)
