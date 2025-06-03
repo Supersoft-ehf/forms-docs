@@ -23,3 +23,4 @@
 ***
 
 * [Stofna nýja kjörskrá](stofna-nyja-kjorskra.md)
+* [Eyða kjörskrá](eyda-kjorskra.md)
