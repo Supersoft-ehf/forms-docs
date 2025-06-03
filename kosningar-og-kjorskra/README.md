@@ -1,2 +1,0 @@
-# Kosningar og Kjörskrá
-
