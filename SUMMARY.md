@@ -15,7 +15,11 @@
 
 ## Kjörskrár
 
-* [Bæta við bulk](kjorskrar/baeta-vid-bulk.md)
+* [Bæta við notendum](kjorskrar/baeta-vid-notendum.md)
 * [Taka út bulk](kjorskrar/taka-ut-bulk.md)
 * [Afrita](kjorskrar/afrita.md)
 * [Taka út einn](kjorskrar/taka-ut-einn.md)
+
+***
+
+* [Stofna nýja kjörskrá](stofna-nyja-kjorskra.md)

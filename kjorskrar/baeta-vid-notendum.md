@@ -1,8 +1,6 @@
-# Bæta við bulk
+# Bæta við notendum
 
-Það er hægt að bæta við "bulk" eða mörgum einu við kjörskrá í einni færslu.&#x20;
-
-Fyrst er farið í "stillingar" undir þínu nafni efst í hægra horninu og svo valið "Kjörskrá". &#x20;
+Til að bæta við notendum er fyrst er farið í "stillingar" undir þínu nafni efst í hægra horninu og svo valið "Kjörskrá". &#x20;
 
 <figure><img src="../.gitbook/assets/Screenshot 2025-06-03 at 17.22.54.png" alt=""><figcaption></figcaption></figure>
 
