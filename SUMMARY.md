@@ -15,7 +15,7 @@
 
 ## Kjörskrár
 
+* [Bæta við bulk](kjorskrar/baeta-vid-bulk.md)
 * [Taka út bulk](kjorskrar/taka-ut-bulk.md)
 * [Afrita](kjorskrar/afrita.md)
 * [Taka út einn](kjorskrar/taka-ut-einn.md)
-* [Bæta við bulk](kjorskrar/baeta-vid-bulk.md)
