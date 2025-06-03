@@ -24,3 +24,6 @@ Svo smellir þú á "Fjarlægja notendur" .&#x20;
 
 <figure><img src="../.gitbook/assets/Screenshot 2025-06-03 at 17.43.52.png" alt=""><figcaption></figcaption></figure>
 
+Hér er hægt að afrita kennitölur á þeim sem þú vilt eyða út, sem þú hefur hakað við.&#x20;
+
+<figure><img src="../.gitbook/assets/Screenshot 2025-06-03 at 17.52.09.png" alt=""><figcaption></figcaption></figure>
